@@ -29,6 +29,6 @@ rm index.html
 
 > [!WARNING]
 > Esta de mas decir que este comando no se debe ejecutar en el CMD desde la ruta
-> del proyecto
+> del proyectoooo
 
 
